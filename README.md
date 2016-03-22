@@ -20,4 +20,4 @@ npm start
 4: Start Gulp Watcher (compile TypeScript and (S)CSS)
 ```
 gulp
-```
+```# angular2
