@@ -22,3 +22,4 @@ npm start
 gulp
 ```# angular2
 # angular2
+# angular-2
